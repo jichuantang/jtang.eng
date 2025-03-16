@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Jürgen Hackl</title>
-    <link>https://hackl.science/categories/</link>
-    <description>Recent content in Categories on Jürgen Hackl</description>
+    <title>Categories on Jichuan Tang</title>
+    <link>https://jtang.org/categories/</link>
+    <description>Recent content in Categories on Jichuan Tang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hackl.science/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>publications</title>
-      <link>https://hackl.science/categories/publications/</link>
+      <link>https://jtang.org/categories/publications/</link>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hackl.science/categories/publications/</guid>
+      <guid>https://jtang.org/categories/publications/</guid>
       <description></description>
     </item>
     
